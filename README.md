@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Carlos and I'm a Full-Stack Developter from Brazil</h2>
 
 ###
@@ -11,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR6OHhmZXQ5dzNjZzJibWJlNTgycjVsa21ld3BuaTc5eXAzY3EycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dH7pGUCPydpFtl4sOD/giphy.gif"  />
+<img align="right" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk4MThzMWY0cWRhdjl6M3Z5NDh4cXNzM2kwZWNvbDM0ZWY5cXBncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dH7pGUCPydpFtl4sOD/giphy.gif"  />
 
 ###
 
@@ -27,22 +25,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://discord.gg/CM9TFQ7F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/carloscauarochasilva9002/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Schatten900/Schatten900/output/snake.svg" alt="Snake animation" />
 
 ###
